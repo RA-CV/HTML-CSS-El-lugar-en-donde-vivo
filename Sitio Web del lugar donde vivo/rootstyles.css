@@ -1,0 +1,33 @@
+@media (max-width: 576px) {
+    card{
+        text-align: center;
+    }
+}
+
+
+
+body{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color: aliceblue;
+}
+
+nav{
+    background-image: linear-gradient( 109.6deg,  rgba(112,246,255,0.33) 11.2%, rgba(221,108,241,0.26) 42%, rgba(229,106,253,0.71) 71.5%, rgba(123,183,253,1) 100.2% );
+    border: solid;
+    padding: 3px;
+}
+
+.card{
+
+    background-image: radial-gradient( circle 311px at 8.6% 27.9%,  rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44) 91.2% );
+    border: 1px solid rgb(27, 82, 155);
+    padding: 15px;
+}
+form{
+    background-color: rgb(115, 228, 221);
+    color: black;
+    border: solid;
+    border-radius: 50px;
+    padding: 30px;
+}
